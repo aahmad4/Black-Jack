@@ -5,7 +5,7 @@ I decided to recreate the world wide known card game Black Jack with Python. I'v
 </p>
 
 <p align="center">
-A link to an online demo version can be found here: https://blackjack.aahmad4.repl.run
+A link to an online demo version can be found here: [blackjack.aahmad4.repl.run](https://blackjack.aahmad4.repl.run)
 </p>
 
 ## Rules

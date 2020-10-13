@@ -1,7 +1,11 @@
 <h1 align="center">Black Jack</h1> 
 
 <p align="center">
-I decided to recreate the world wide known card game blackjack with python. I've created a very nice user interface that allows a clear decision whether to hit or stand. I hope you enjoy this CPU vs End-User type setup card game. Enjoy!
+I decided to recreate the world wide known card game Black Jack with Python. I've created a very nice user interface that allows a clear decision whether to hit or stand. I hope you enjoy this CPU vs End-User type setup card game. Enjoy!
+</p>
+
+<p align="center">
+A link to an online demo version can be found here: https://blackjack.aahmad4.repl.run
 </p>
 
 ## Rules

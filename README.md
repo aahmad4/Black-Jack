@@ -20,6 +20,9 @@ git clone https://github.com/aahmad4/Black-Jack
 ```
 
 #### Usage
+```
+cd Black-Jack
+```
 
 ```
 python pythonBlackJackGameGUI.py

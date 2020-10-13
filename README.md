@@ -13,13 +13,13 @@ In Blackjack there are two players, the CPU will be the dealer and you will be t
 
 ## Setup
 
-### Clone
+#### Clone
 
 ```
 git clone https://github.com/aahmad4/Black-Jack
 ```
 
-### Usage
+#### Usage
 
 ```
 python pythonBlackJackGameGUI.py
